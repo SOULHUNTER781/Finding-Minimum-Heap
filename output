@@ -1,0 +1,11 @@
+OUTPUT OF PROGRAM WITH SAMPLE DATA
+INPUT
+Enter the proper input
+2,3,4,6,8,8
+OUTPUT
+The min heap is
+1 4 3 7 7 9
+
+TOTAL NUMBER OF BASIC OPERATIONS
+1.Building an heap ,modifying array and heapifying the elements.
+2. Time complexity of the program is O(nlogn).
